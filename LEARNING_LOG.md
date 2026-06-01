@@ -21,3 +21,47 @@
 
 ### Code Practice 
     - VS CODE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 🚀 Day 02 —   01 june 2026
+
+
+
+### Resource using
+    - W3 Schools (python course)
+
+
+
+
+
+
+
+### 📚 What I Learned
+
+1.Python Variables (upto Output Variables)
+
+
+
+
+
+
+### Code Practice 
+    - VS CODE
+
+
