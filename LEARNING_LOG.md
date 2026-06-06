@@ -18,13 +18,8 @@
 6.Python Comments
 
 
-
 ### Code Practice 
     - VS CODE
-
-
-
-
 
 
 
@@ -47,16 +42,9 @@
     - W3 Schools (python course)
 
 
-
-
-
-
-
 ### 📚 What I Learned
 
 1.Python Variables (upto Output Variables)
-
-
 
 
 
@@ -65,3 +53,32 @@
     - VS CODE
 
 
+
+
+
+
+From 02/06/26  -  05/06/26 (Computer went for fixing)
+
+
+
+
+
+
+
+## 🚀 Day 03 —   06 june 2026
+
+
+
+### Resource using
+    - W3 Schools (python course)
+
+
+### 📚 What I Learned
+
+1.Python Data Types
+
+
+
+
+### Code Practice 
+    - VS CODE
