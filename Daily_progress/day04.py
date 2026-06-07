@@ -5,7 +5,7 @@ import random
 print(random.randrange(1, 10))
 
 
-
+ 
 int_num = 10
 float_num = 3.14
 complex_num = 3j
