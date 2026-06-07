@@ -80,5 +80,24 @@ From 02/06/26  -  05/06/26 (Computer went for fixing)
 
 
 
+
+
+
+
+## 🚀 Day 04 —   07 june 2026
+
+
+
+### Resource using
+    - W3 Schools (python course)
+
+
+### 📚 What I Learned
+
+1.Python Numbers
+
+
+
+
 ### Code Practice 
     - VS CODE
