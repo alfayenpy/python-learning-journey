@@ -99,5 +99,26 @@ From 02/06/26  -  05/06/26 (Computer went for fixing)
 
 
 
+
+
+
+
+
+## 🚀 Day 05 —   08 june 2026
+
+
+
+### Resource using
+    - W3 Schools (python course)
+
+
+### 📚 What I Learned
+
+1.Python Casting
+
+
+
+
+
 ### Code Practice 
     - VS CODE
