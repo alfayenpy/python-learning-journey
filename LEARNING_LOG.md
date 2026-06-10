@@ -145,3 +145,42 @@ From 02/06/26  -  05/06/26 (Computer went for fixing)
 
 ### Code Practice 
     - VS CODE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 🚀 Day 07 —   10 june 2026
+
+
+
+### Resource using
+    - W3 Schools (python course)
+
+
+### 📚 What I Learned
+
+1.Python Strings
+    - Slicing strings
+    - Modify strings
+    - Concatenate strings
+    - Format strings
+
+
+
+
+
+### Code Practice 
+    - VS CODE
