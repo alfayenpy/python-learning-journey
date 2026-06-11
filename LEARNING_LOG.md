@@ -184,3 +184,40 @@ From 02/06/26  -  05/06/26 (Computer went for fixing)
 
 ### Code Practice 
     - VS CODE
+
+
+
+
+
+
+
+## 🚀 Day 08 —   11 june 2026
+
+
+
+### Resource using
+    - W3 Schools (python course)
+
+
+
+
+### 📚 What I Learned
+- Python Strings(Escape Characters)
+
+
+
+### Code Practice 
+    - VS CODE
+
+
+
+Mini Project:
+- Project 01 - Student Information Card ✅
+
+
+
+Status:
+Completed ✅
+
+
+
