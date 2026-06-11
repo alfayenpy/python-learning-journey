@@ -26,7 +26,7 @@ They are practice projects created to:
 
 ## 📂 Projects
 
-* Project 01 – Calculator
+* Project 01 – Student_Information_Card
 * Project 02 – Coming Soon
 * Project 03 – Coming Soon
 
