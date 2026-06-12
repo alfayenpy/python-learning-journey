@@ -241,21 +241,22 @@ Completed ✅
 ### 📚 What I Learned
 
 1.Python Strings Methods
-    upper()
-    lower()
-    strip()
-    replace()
-    split()
-    join()
-    find()
-    count()
-    startswith()
-    endswith()
-    capitalize()
-    title()
-    isalnum()
-    isalpha()
-    isdigit()
+
+upper()
+lower()
+strip()
+replace()
+split()
+join()
+find()
+count()
+startswith()
+endswith()
+capitalize()
+title()
+isalnum()
+isalpha()
+isdigit()
 
 
 
