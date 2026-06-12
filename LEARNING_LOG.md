@@ -221,3 +221,46 @@ Completed ✅
 
 
 
+
+
+
+
+
+
+
+
+
+## 🚀 Day 09 —   12 june 2026
+
+
+
+### Resource using
+    - W3 Schools (python course)
+
+
+### 📚 What I Learned
+
+1.Python Strings Methods
+    upper()
+    lower()
+    strip()
+    replace()
+    split()
+    join()
+    find()
+    count()
+    startswith()
+    endswith()
+    capitalize()
+    title()
+    isalnum()
+    isalpha()
+    isdigit()
+
+
+
+
+
+
+### Code Practice 
+    - VS CODE
