@@ -263,5 +263,33 @@ isdigit()
 
 
 
+
+
+
+
+
+## 🚀 Day 10 —   13 june 2026
+
+
+
+### Resource using
+    - W3 Schools (python course)
+
+
+### 📚 What I Learned
+
+1.Python Strings    -> String Exercises, Code Challenge
+2.Python Booleans   -> Booleans, Code Challenge
+
+
+
+
+### Code Practice 
+    - VS CODE
+
+
+
+
+
 ### Code Practice 
     - VS CODE
