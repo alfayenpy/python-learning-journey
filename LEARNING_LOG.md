@@ -1,262 +1,201 @@
 # 🐍 Python Learning Log
 
-## 🚀 Day 01 —   31 May 2026
+## 🚀 Day 01 — 31 May 2026
 
+### 📚 Resource Used
 
-### Resource using
-    - W3 Schools (python course)
+* W3Schools (Python Course)
 
-### 📚 What I Learned
-      
-      - Python Tutorial
-      
-1.Python HOME
-2.Python Intro
-3.Python Get Started
-4.Python Syntax
-5.Python Output
-6.Python Comments
+### 📖 What I Learned
 
+* Python Home
+* Python Intro
+* Python Get Started
+* Python Syntax
+* Python Output
+* Python Comments
 
-### Code Practice 
-    - VS CODE
+### 💻 Code Practice
 
+* VS Code
 
+---
 
+## 🚀 Day 02 — 01 June 2026
 
+### 📚 Resource Used
 
+* W3Schools (Python Course)
 
+### 📖 What I Learned
 
+* Python Variables (up to Output Variables)
 
+### 💻 Code Practice
 
+* VS Code
 
+---
 
+## ⚠️ Break Period
 
+**02 June 2026 – 05 June 2026**
 
+* Computer went for repair/fixing.
 
-## 🚀 Day 02 —   01 june 2026
+---
 
+## 🚀 Day 03 — 06 June 2026
 
+### 📚 Resource Used
 
-### Resource using
-    - W3 Schools (python course)
+* W3Schools (Python Course)
 
+### 📖 What I Learned
 
-### 📚 What I Learned
+* Python Data Types
 
-1.Python Variables (upto Output Variables)
+### 💻 Code Practice
 
+* VS Code
 
+---
 
+## 🚀 Day 04 — 07 June 2026
 
-### Code Practice 
-    - VS CODE
+### 📚 Resource Used
 
+* W3Schools (Python Course)
 
+### 📖 What I Learned
 
+* Python Numbers
 
+### 💻 Code Practice
 
+* VS Code
 
-From 02/06/26  -  05/06/26 (Computer went for fixing)
+---
 
+## 🚀 Day 05 — 08 June 2026
 
+### 📚 Resource Used
 
+* W3Schools (Python Course)
 
+### 📖 What I Learned
 
+* Python Casting
 
+### 💻 Code Practice
 
-## 🚀 Day 03 —   06 june 2026
+* VS Code
 
+---
 
+## 🚀 Day 06 — 09 June 2026
 
-### Resource using
-    - W3 Schools (python course)
+### 📚 Resource Used
 
+* W3Schools (Python Course)
 
-### 📚 What I Learned
+### 📖 What I Learned
 
-1.Python Data Types
+* Python Strings (Introduction)
 
+### 💻 Code Practice
 
+* VS Code
 
+---
 
+## 🚀 Day 07 — 10 June 2026
 
+### 📚 Resource Used
 
+* W3Schools (Python Course)
 
+### 📖 What I Learned
 
-## 🚀 Day 04 —   07 june 2026
+#### Python Strings
 
+* String Slicing
+* Modify Strings
+* Concatenate Strings
+* Format Strings (f-Strings)
 
+### 💻 Code Practice
 
-### Resource using
-    - W3 Schools (python course)
+* VS Code
 
+---
 
-### 📚 What I Learned
+## 🚀 Day 08 — 11 June 2026
 
-1.Python Numbers
+### 📚 Resource Used
 
+* W3Schools (Python Course)
 
+### 📖 What I Learned
 
+#### Python Strings
 
+* Escape Characters
 
+### 💻 Code Practice
 
+* VS Code
 
+### 🛠 Mini Project
 
+* Project 01 – Student Information Card ✅
 
-## 🚀 Day 05 —   08 june 2026
+### 📌 Status
 
+* Completed ✅
 
+---
 
-### Resource using
-    - W3 Schools (python course)
+## 🚀 Day 09 — 12 June 2026
 
+### 📚 Resource Used
 
-### 📚 What I Learned
+* W3Schools (Python Course)
 
-1.Python Casting
+### 📖 What I Learned
 
+#### Python String Methods
 
+* upper()
+* lower()
+* strip()
+* replace()
+* split()
+* join()
+* find()
+* count()
+* startswith()
+* endswith()
+* capitalize()
+* title()
+* isalnum()
+* isalpha()
+* isdigit()
 
+#### Python Booleans
 
+* Boolean Values (True / False)
+* Comparison Operators
+* bool() Function
+* Boolean Code Challenge
 
+### 💻 Code Practice
 
+* VS Code
 
+### 📌 Status
 
-
-
-
-## 🚀 Day 06 —   09 june 2026
-
-
-
-### Resource using
-    - W3 Schools (python course)
-
-
-### 📚 What I Learned
-
-1.Python Strings (python strings) only
-
-
-
-
-
-
-### Code Practice 
-    - VS CODE
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## 🚀 Day 07 —   10 june 2026
-
-
-
-### Resource using
-    - W3 Schools (python course)
-
-
-### 📚 What I Learned
-
-1.Python Strings
-    - Slicing strings
-    - Modify strings
-    - Concatenate strings
-    - Format strings
-
-
-
-
-
-### Code Practice 
-    - VS CODE
-
-
-
-
-
-
-
-## 🚀 Day 08 —   11 june 2026
-
-
-
-### Resource using
-    - W3 Schools (python course)
-
-
-
-
-### 📚 What I Learned
-- Python Strings(Escape Characters)
-
-
-
-### Code Practice 
-    - VS CODE
-
-
-
-Mini Project:
-- Project 01 - Student Information Card ✅
-
-
-
-Status:
-Completed ✅
-
-
-
-
-
-
-
-
-
-
-
-
-## 🚀 Day 09 —   12 june 2026
-
-
-
-### Resource using
-    - W3 Schools (python course)
-
-
-### 📚 What I Learned
-
-1.Python Strings Methods
-
-upper()
-lower()
-strip()
-replace()
-split()
-join()
-find()
-count()
-startswith()
-endswith()
-capitalize()
-title()
-isalnum()
-isalpha()
-isdigit()
+* Completed ✅
 
 
 
