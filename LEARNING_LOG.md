@@ -276,10 +276,17 @@ isdigit()
     - W3 Schools (python course)
 
 
-### 📚 What I Learned
 
-1.Python Strings    -> String Exercises, Code Challenge
-2.Python Booleans   -> Booleans, Code Challenge
+## 📚 What I Learned
+
+
+### Python Strings
+- String Exercises
+- Code Challenge
+
+### Python Booleans
+- Booleans
+- Code Challenge
 
 
 
@@ -287,9 +294,3 @@ isdigit()
 ### Code Practice 
     - VS CODE
 
-
-
-
-
-### Code Practice 
-    - VS CODE
