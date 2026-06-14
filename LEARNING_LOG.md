@@ -233,3 +233,38 @@
 ### Code Practice 
     - VS CODE
 
+
+
+
+
+
+
+
+
+## 🚀 Day 11 —   14 june 2026
+
+
+
+### Resource using
+    - W3 Schools (python course)
+
+
+
+## 📚 What I Learned
+
+
+### Python Operators
+- Python Operators
+- Arithmetic Operators
+- Assignment Operators
+- Ternary Operators
+- Comparison Operators
+- Logical Operators
+
+
+
+
+
+### Code Practice 
+    - VS CODE
+
