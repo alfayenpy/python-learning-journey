@@ -268,3 +268,37 @@
 ### Code Practice 
     - VS CODE
 
+
+
+
+
+
+
+
+
+## 🚀 Day 12 —   15 june 2026
+
+
+
+### Resource using
+    - W3 Schools (python course)
+
+
+
+## 📚 What I Learned
+
+
+### Python Operators
+- Identity Operators
+- Membership Operators
+- Bitwise Operators
+- Operator Preceedence
+- Code Challenge
+
+
+
+
+
+### Code Practice 
+    - VS CODE
+
