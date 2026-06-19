@@ -302,3 +302,17 @@
 ### Code Practice 
     - VS CODE
 
+
+
+
+
+
+---
+
+## ⚠️ Break Period
+
+**16 June 2026 – 18 June 2026**
+
+* Computer went for repair/fixing.
+
+---
