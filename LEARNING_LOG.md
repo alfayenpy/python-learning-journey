@@ -316,3 +316,30 @@
 * Computer went for repair/fixing.
 
 ---
+
+
+
+
+
+## 🚀 Day 13 —   19 june 2026
+
+
+
+### Resource using
+    - W3 Schools (python course)
+
+
+
+## 📚 What I Learned
+
+
+### Python Lists
+- Python Lists
+- Access List Items
+
+
+
+
+
+### Code Practice 
+    - VS CODE
