@@ -343,3 +343,31 @@
 
 ### Code Practice 
     - VS CODE
+
+
+
+
+
+
+## 🚀 Day 14 —   20 june 2026
+
+
+
+### Resource using
+    - W3 Schools (python course)
+
+
+
+## 📚 What I Learned
+
+
+### Python Lists
+
+    - Change List Items
+
+
+
+
+
+### Code Practice 
+    - VS CODE
