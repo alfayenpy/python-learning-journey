@@ -371,3 +371,38 @@
 
 ### Code Practice 
     - VS CODE
+
+
+
+
+
+
+
+
+
+
+## 🚀 Day 15 — 21 June 2026
+
+### 📚 Resource Used
+
+* W3Schools (Python Course)
+
+### 📖 What I Learned
+
+#### Python Lists
+
+* Add List Items
+
+### 💻 Code Practice
+
+* VS Code
+
+### 🛠 Mini Project
+
+* Project 02 – Favourite Country Manager ✅
+
+### 📌 Status
+
+* Completed ✅
+
+---
