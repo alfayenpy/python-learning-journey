@@ -430,9 +430,3 @@
 
 ### Code Practice 
     - VS CODE
-
-### 📌 Status
-
-* Completed ✅
-
----
