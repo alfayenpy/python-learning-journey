@@ -28,7 +28,7 @@ They are practice projects created to:
 
 * Project 01 – Student_Information_Card
 * Project 02 – Favourite_Country_Manager
-* Project 03 – Coming Soon
+* Project 03 – Coming Soon...
 
 ## 🐍 Learning Philosophy
 
