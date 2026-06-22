@@ -401,6 +401,36 @@
 
 * Project 02 – Favourite Country Manager ✅
 
+
+
+
+
+
+
+
+
+## 🚀 Day 16 —   22 june 2026
+
+
+
+### Resource using
+    - W3 Schools (python course)
+
+
+
+## 📚 What I Learned
+
+
+### Python Lists
+- Remove List Items
+
+
+
+
+
+### Code Practice 
+    - VS CODE
+
 ### 📌 Status
 
 * Completed ✅
