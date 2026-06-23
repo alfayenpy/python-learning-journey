@@ -430,3 +430,39 @@
 
 ### Code Practice 
     - VS CODE
+
+
+
+
+
+
+
+
+
+
+
+
+## 🚀 Day 17 — 23 May 2026
+
+
+
+### 📚 Resource Used
+
+* W3Schools (Python Course)
+
+
+
+
+### 📖 What I Learned
+
+### Python Lists
+- Python Loop Lists
+
+
+  
+
+### 💻 Code Practice
+
+* VS Code
+
+---
