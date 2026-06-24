@@ -466,3 +466,36 @@
 * VS Code
 
 ---
+
+
+
+
+
+
+
+
+
+## 🚀 Day 18 — 24 May 2026
+
+
+
+### 📚 Resource Used
+
+* W3Schools (Python Course)
+
+
+
+
+### 📖 What I Learned
+
+### Python Lists
+- Lists Comprehension
+
+
+  
+
+### 💻 Code Practice
+
+* VS Code
+
+---
