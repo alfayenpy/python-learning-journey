@@ -442,7 +442,7 @@
 
 
 
-## 🚀 Day 17 — 23 May 2026
+## 🚀 Day 17 — 23 June 2026
 
 
 
@@ -475,7 +475,7 @@
 
 
 
-## 🚀 Day 18 — 24 May 2026
+## 🚀 Day 18 — 24 June 2026
 
 
 
@@ -490,6 +490,40 @@
 
 ### Python Lists
 - Lists Comprehension
+
+
+  
+
+### 💻 Code Practice
+
+* VS Code
+
+---
+
+
+
+
+
+
+
+
+
+
+## 🚀 Day 19 — 25 June 2026
+
+
+
+### 📚 Resource Used
+
+* W3Schools (Python Course)
+
+
+
+
+### 📖 What I Learned
+
+### Python Lists
+- Sort Lists
 
 
   
