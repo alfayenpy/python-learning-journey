@@ -533,3 +533,36 @@
 * VS Code
 
 ---
+
+
+
+
+
+
+
+
+
+## 🚀 Day 20 — 26 June 2026
+
+
+
+### 📚 Resource Used
+
+* W3Schools (Python Course)
+
+
+
+
+### 📖 What I Learned
+
+### Python Lists
+- Copy Lists
+
+
+  
+
+### 💻 Code Practice
+
+* VS Code
+
+---
