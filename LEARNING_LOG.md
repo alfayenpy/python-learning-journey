@@ -566,3 +566,38 @@
 * VS Code
 
 ---
+
+
+
+
+
+
+
+
+
+
+
+## 🚀 Day 21 — 27 June 2026
+
+
+
+### 📚 Resource Used
+
+* W3Schools (Python Course)
+
+
+
+
+### 📖 What I Learned
+
+### Python Lists
+- Join Lists
+
+
+  
+
+### 💻 Code Practice
+
+* VS Code
+
+---
