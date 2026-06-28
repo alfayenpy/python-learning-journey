@@ -47,32 +47,43 @@ This repository documents my learning process, including:
 
 Every file in this repository represents a step forward in my development as a programmer.
 
----
-
-## 🛠 Current Learning Path
-
-### Python Fundamentals
-
-* Variables
-* Data Types
-* User Input
-* Conditional Statements
-* Loops
-* Functions
-* Lists, Tuples & Dictionaries
-* File Handling
-* Object-Oriented Programming
-
-### Future Topics
-
-* Python Automation
-* APIs
-* Web Scraping
-* Data Analysis
-* Full Stack Development
-* Advanced Python Projects
 
 ---
+
+🌱 Continuous Improvement
+
+I understand that my early projects will be simple.
+
+That is intentional.
+
+As I continue learning new Python concepts, I plan to revisit older projects and improve them by adding better code structure, cleaner design, new features, file handling, object-oriented programming, graphical interfaces, APIs, and automation capabilities.
+
+This repository will continue evolving alongside my skills.
+
+
+---
+
+
+🎯 My Vision
+
+My vision is clear:
+
+➡️ Build a strong Python foundation.
+
+➡️ Master automation development.
+
+➡️ Create useful real-world software.
+
+➡️ Pursue higher education in Japan.
+
+➡️ Build a successful career in the Japanese IT industry.
+
+➡️ Continue learning throughout my life.
+
+I believe programming is a lifelong journey, and this repository is the place where that journey is being documented from the very beginning.
+
+---
+
 
 ## 🌏 Future Vision
 
@@ -93,6 +104,7 @@ I am grateful to my family for always supporting my goals, my education, and the
 Their encouragement motivates me to keep moving forward every day.
 
 ---
+
 
 ## 🔥 Personal Philosophy
 
