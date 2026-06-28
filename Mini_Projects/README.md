@@ -28,8 +28,8 @@ They are practice projects created to:
 
 * Project 01 – Student_Information_Card
 * Project 02 – Favourite_Country_Manager
-* Project 03 – Travel Planner
-* Project 04 -  
+* Project 03 – Travel Manager
+* Project 04 - Coming Soon...
 
 ## 🐍 Learning Philosophy
 
