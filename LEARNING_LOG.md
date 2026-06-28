@@ -601,3 +601,38 @@
 * VS Code
 
 ---
+
+
+
+
+
+
+
+
+
+## 🚀 Day 22 — 28 June 2026
+
+
+
+### 📚 Resource Used
+
+* W3Schools (Python Course)
+
+
+
+
+### 📖 What I Learned
+
+### Python Lists
+- Lists Methods
+- List Exercises
+- Code Challenge
+
+
+  
+
+### 💻 Code Practice
+
+* VS Code
+
+---
