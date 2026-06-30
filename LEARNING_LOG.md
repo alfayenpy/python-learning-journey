@@ -681,3 +681,39 @@
 * VS Code
 
 ---
+
+
+
+
+
+
+
+
+
+
+
+## 🚀 Day 24 — 30 June 2026
+
+
+
+### 📚 Resource Used
+
+* W3Schools (Python Course)
+
+
+
+
+### 📖 What I Learned
+
+### Python Tuples
+- Update Tuples
+- Unpack Tuples
+
+
+  
+
+### 💻 Code Practice
+
+* VS Code
+
+---
