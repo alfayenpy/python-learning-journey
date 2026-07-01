@@ -717,3 +717,37 @@
 * VS Code
 
 ---
+
+
+
+
+
+
+
+
+
+## 🚀 Day 25 — 01 July 2026
+
+
+
+### 📚 Resource Used
+
+* W3Schools (Python Course)
+
+
+
+
+### 📖 What I Learned
+
+### Python Tuples
+- Loop Tuples
+  
+
+
+  
+
+### 💻 Code Practice
+
+* VS Code
+
+---
