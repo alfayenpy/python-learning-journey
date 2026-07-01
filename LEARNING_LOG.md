@@ -741,6 +741,10 @@
 
 ### Python Tuples
 - Loop Tuples
+- Join Tuples
+- Tuple Methods
+- Tuple Exercises
+- Code Challenge
   
 
 
