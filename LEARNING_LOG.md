@@ -815,7 +815,10 @@
 
 ### 📖 What I Learned
 
-### Upcoming Soon...
+### Python Sets
+- Access Set Items
+- Add Set Items
+- Remove Set Items
 
 
   
