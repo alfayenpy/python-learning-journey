@@ -868,3 +868,39 @@
 * VS Code
 
 ---
+
+
+
+
+
+
+
+
+
+
+## 🚀 Day 29 — 05 July 2026
+
+
+
+### 📚 Resource Used
+
+* W3Schools (Python Course)
+
+
+
+
+### 📖 What I Learned
+
+### Upcoming Soon...
+
+
+  
+
+
+  
+
+### 💻 Code Practice
+
+* VS Code
+
+---
