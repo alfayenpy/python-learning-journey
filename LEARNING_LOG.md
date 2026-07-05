@@ -895,12 +895,25 @@
 
 
   
-
-
   
 
 ### 💻 Code Practice
 
 * VS Code
 
+
+
+
+### 🚀 Mini Project
+
+**Project 04 – Student_Club_Registration_System **
+
+
+
+### 📈 Portfolio Progress
+
+✅ Project 04 Completed – Student Club Registration System
+
+
 ---
+
