@@ -891,8 +891,8 @@
 
 ### 📖 What I Learned
 
-### Upcoming Soon...
-
+### Python Sets
+- frozenset
 
   
   
@@ -940,7 +940,9 @@
 
 ### 📖 What I Learned
 
-### Upcoming Soon...
+### Python Sets
+
+-Set Methods
 
 
 
@@ -954,3 +956,13 @@
 * VS Code
 
 ---
+
+
+
+
+
+
+
+
+
+
