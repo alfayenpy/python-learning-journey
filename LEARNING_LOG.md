@@ -980,7 +980,9 @@
 
 ### 📖 What I Learned
 
-### Upcoming Soon...
+### Python Sets
+ - Set Exercises
+ - Code Challenge
 
 
 
