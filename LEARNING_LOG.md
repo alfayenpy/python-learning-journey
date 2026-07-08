@@ -997,3 +997,42 @@
 * VS Code
 
 ---
+
+
+
+
+
+
+
+
+
+
+## 🚀 Day 32 — 08 July 2026
+
+
+
+### 📚 Resource Used
+
+* W3Schools (Python Course)
+
+
+
+
+### 📖 What I Learned
+
+### Python Dictionaries
+ - Python Dictionaries
+
+
+
+
+  
+
+
+  
+
+### 💻 Code Practice
+
+* VS Code
+
+---
