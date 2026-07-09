@@ -1036,3 +1036,43 @@
 * VS Code
 
 ---
+
+
+
+
+
+
+
+
+
+
+
+## 🚀 Day 33 — 09 July 2026
+
+
+
+### 📚 Resource Used
+
+* W3Schools (Python Course)
+
+
+
+
+### 📖 What I Learned
+
+### Python Dictionaries
+ - Access Items
+
+
+
+
+  
+
+
+  
+
+### 💻 Code Practice
+
+* VS Code
+
+---
