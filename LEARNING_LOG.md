@@ -1114,3 +1114,44 @@
 * VS Code
 
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 🚀 Day 35 — 11 July 2026
+
+
+
+### 📚 Resource Used
+
+* W3Schools (Python Course)
+
+
+
+
+### 📖 What I Learned
+
+### Upcoming Soon...
+
+
+
+
+  
+
+
+  
+
+### 💻 Code Practice
+
+* VS Code
+
+---
