@@ -1156,3 +1156,46 @@
 * VS Code
 
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 🚀 Day 36 — 12 July 2026
+
+
+
+### 📚 Resource Used
+
+* W3Schools (Python Course)
+
+
+
+
+### 📖 What I Learned
+
+### Skip Day
+
+
+
+
+  
+
+
+  
+
+### 💻 Code Practice
+
+* VS Code
+
+---
