@@ -1184,7 +1184,46 @@
 
 ### 📖 What I Learned
 
-### Skip Day
+### Upcoming Soon...
+
+
+
+
+  
+
+
+  
+
+### 💻 Code Practice
+
+* VS Code
+
+---
+
+
+
+
+
+
+
+
+
+
+
+## 🚀 Day 37 — 13 July 2026
+
+
+
+### 📚 Resource Used
+
+* W3Schools (Python Course)
+
+
+
+
+### 📖 What I Learned
+
+### Upcoming Soon...
 
 
 
