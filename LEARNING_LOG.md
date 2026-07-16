@@ -1340,7 +1340,10 @@
 
 ### 📖 What I Learned
 
-### Upcoming Soon...
+### Python Dictionaries
+ - Dictionary Methods
+ - Dictionary Exercises
+ - Code Challenge
 
 
 
