@@ -1357,3 +1357,40 @@
 * VS Code
 
 ---
+
+
+
+
+
+
+
+
+
+
+## 🚀 Day 41 — 17 July 2026
+
+
+
+### 📚 Resource Used
+
+* W3Schools (Python Course)
+
+
+
+
+### 📖 What I Learned
+
+### Python If...Else
+ - Python If Statement
+
+
+  
+
+
+  
+
+### 💻 Code Practice
+
+* VS Code
+
+---
