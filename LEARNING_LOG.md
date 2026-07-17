@@ -1394,3 +1394,40 @@
 * VS Code
 
 ---
+
+
+
+
+
+
+
+
+
+
+## 🚀 Day 42 — 18 July 2026
+
+
+
+### 📚 Resource Used
+
+* W3Schools (Python Course)
+
+
+
+
+### 📖 What I Learned
+
+### Python If...Else
+ - Upcoming Soon...
+
+
+  
+
+
+  
+
+### 💻 Code Practice
+
+* VS Code
+
+---
