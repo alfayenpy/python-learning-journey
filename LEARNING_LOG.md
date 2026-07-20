@@ -1489,7 +1489,7 @@
 ### 📖 What I Learned
 
 ### Python If...Else
- - Upcoming Soon...
+ - Python Shorthand If
 
 
   
@@ -1502,3 +1502,5 @@
 * VS Code
 
 ---
+
+
