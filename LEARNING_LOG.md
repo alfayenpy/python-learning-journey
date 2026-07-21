@@ -1504,3 +1504,39 @@
 ---
 
 
+
+
+
+
+
+
+## 🚀 Day 45 — 21 July 2026
+
+
+
+### 📚 Resource Used
+
+* W3Schools (Python Course)
+
+
+
+
+### 📖 What I Learned
+
+### Python If...Else
+ - Python Logical Operators
+ - Python Nested If
+ - Python Pass Statement
+ - Python If...Else Code Challenge
+
+
+  
+
+
+  
+
+### 💻 Code Practice
+
+* VS Code
+
+---
