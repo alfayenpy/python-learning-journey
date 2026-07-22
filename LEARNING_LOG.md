@@ -1540,3 +1540,42 @@
 * VS Code
 
 ---
+
+
+
+
+
+
+
+
+
+
+
+## 🚀 Day 46 — 22 July 2026
+
+
+
+### 📚 Resource Used
+
+* W3Schools (Python Course)
+
+
+
+
+### 📖 What I Learned
+
+### Python Match
+ - Match
+ - CODE CHALLENGE
+
+
+  
+
+
+  
+
+### 💻 Code Practice
+
+* VS Code
+
+---
