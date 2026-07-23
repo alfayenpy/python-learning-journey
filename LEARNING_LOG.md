@@ -1602,7 +1602,9 @@
 
 ### 📖 What I Learned
 
-### Upcoming Soon...
+### Python While Loops
+ - Python While Loops
+ - Code Challenge
 
 
   
