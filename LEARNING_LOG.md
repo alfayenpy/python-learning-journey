@@ -1617,3 +1617,40 @@
 * VS Code
 
 ---
+
+
+
+
+
+
+
+
+
+## 🚀 Day 48 — 24 July 2026
+
+
+
+### 📚 Resource Used
+
+* W3Schools (Python Course)
+
+
+
+
+### 📖 What I Learned
+
+### Python For Loops
+ - Python For Loops
+ - Code Challenge
+
+
+  
+
+
+  
+
+### 💻 Code Practice
+
+* VS Code
+
+---
