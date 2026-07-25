@@ -1654,3 +1654,39 @@
 * VS Code
 
 ---
+
+
+
+
+
+
+
+
+
+## 🚀 Day 49 — 25 July 2026
+
+
+
+### 📚 Resource Used
+
+* W3Schools (Python Course)
+
+
+
+
+### 📖 What I Learned
+
+### Python Functions
+ - Python Functions
+
+
+  
+
+
+  
+
+### 💻 Code Practice
+
+* VS Code
+
+---
