@@ -1690,3 +1690,42 @@
 * VS Code
 
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 🚀 Day 50 — 26 July 2026
+
+
+
+### 📚 Resource Used
+
+* W3Schools (Python Course)
+
+
+
+
+### 📖 What I Learned
+
+### Python Functions
+ - Python Function Arguments
+
+  
+
+
+  
+
+### 💻 Code Practice
+
+* VS Code
+
+---
